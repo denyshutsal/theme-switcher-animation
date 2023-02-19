@@ -1,0 +1,23 @@
+{
+  "name": "theme-switcher-animation",
+  "homepage": "https://denyshutsal.github.io/theme-switcher-animation",
+  "version": "1.0.0",
+  "description": "theme-switcher-animation",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denyshutsal/theme-switcher-animation.git"
+  },
+  "author": "Denys Hutsal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denyshutsal/theme-switcher-animation/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
